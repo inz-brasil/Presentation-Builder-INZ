@@ -1,43 +1,203 @@
-# Presentation Builder INZ
+# 🟣 Presentation Builder Pack — by INZ
 
-O motor definitivo para transformar Inteligências Artificiais em diretores de arte, redatores geniais e programadores de apresentações interativas de altíssimo padrão. 
-Pare de jogar um prompt no escuro pedindo pra a IA "escrever um PPT". Injete nela esse ecossistema completo.
+<div align="center">
 
-## 📦 O que tem na caixa?
-- **O Workflow Passo-a-Passo:** As diretrizes rígidas da "linha de produção" (5 passos) onde o robô é freado e forçado a pensar, debater e validar requisitos do layout, antes de escrever o código.
-- **As Mentes/Skills Integradas:** Este pacote funciona sob o arcabouço de 5 inteligências artificiais específicas de especialidade para gerar a perfeição final para você:
-    - ✔️ **seo-fundamentals:** (Visibilidade Orgânica / Meta tags)
-    - ✔️ **copywriting:** (Texto puramente humano, com retenção de atenção)
-    - ✔️ **ui-ux-pro-max:** (Perfeição Geométrica e de Contraste para Designs Globais)
-    - ✔️ **frontend-design:** (A tradução da arte para arquiteturas CSS, HTML, Tailwind e React puras)
-    - ✔️ **web-artifacts-builder:** (A renderização autônoma de blocos visuais)
+**O motor definitivo com 5 skills de Design e Copy para agentes de IA**
+
+Transforma qualquer IDE com agente de IA em uma agência produtora de Apresentações completas e irretocáveis.
+
+[![Skills](https://img.shields.io/badge/skills-5-blueviolet)]()
+[![Workflow](https://img.shields.io/badge/workflow-1-orange)]()
+[![License](https://img.shields.io/badge/license-free-green)]()
+[![Platform](https://img.shields.io/badge/platform-any%20AI%20agent-blue)]()
+
+Criado por **INZ** · [Instagram @inzbrasil](https://instagram.com/inzbrasil)
+
+</div>
 
 ---
 
-## 🚀 Como acoplar (Tutorial de Instalação Multi-Agente)
+## O que é isso?
 
-O formato flexível desta estrutura de diretórios foi pensado para as IAs que mais crescem. Descubra aqui como "ligar" o cérebro da INZ nelas.
+Um pack gratuito com **5 skills prontas + 1 workflow** que ensina o seu agente de IA (Antigravity, Claude Code, Cursor, Copilot, Windsurf, etc.) a trabalhar como uma agência formadora de apresentações. Instale no seu projeto, acione o workflow e o agente atuará simultaneamente como diretor de arte, redator e programador do zero, entregando desde PDFs imutáveis até Web Apps interativos.
 
-### 🔴 Para o Cursor IDE (VS Code Fork)
-O Cursor possui um recurso formidável lendo repositórios ocultos.
-1. Abra as Configurações de Repositório do Cursor (`.cursorrules` localizado na base do projeto original).
-2. Cole de modo literal o conteúdo que está em **`RULES.md`**.
-3. Para ativar a capacidade da IA saber desenhar os slides: Copie todos os Markdown das pastas `/workflow` e `/skills` para um bloco ou projeto visível no seu Workspace do Cursor (`@Files`), em uma base indexável. Peça ajuda a ele no chat utilizando o contexto de `presentation-builder.md`, e ele puxará a esteira perfeita.
+Funciona com qualquer agente que leia Markdown: Antigravity, Claude Code, Cursor, Windsurf, Copilot.
 
-### 🟠 Para o Claude Code (Terminal CLI)
-A IA de prancheta autônoma do Terminal, perfeita para devs solitários e hardcore.
-1. No diretório que atuará o projeto, coloque parte da diretriz de **`RULES.md`** dentro das root options do CLI ou chame `claudecode` alimentando as Rules via contexto.
-2. Inicie a interface e mande o comando absoluto: `Siga estritamente o manual e o workflow inserido no caminho ./Presentation Builder/workflow/presentation-builder.md para gerar a minha apresentação`. Ele buscará do file-system o escopo.
+---
 
-### 🔵 Para o Antigravity Framework
-No ecosistema nativo:
-1. Localize a raiz oculta do kit (`.agent/`).
-2. Mova ou referencie todas as subpastas contidas na raiz desse pacote em `skills/` para o diretório de `.agent/skills` se estiverem vazias lá.
-3. Mova o markdown principal dentro de `workflow/` para a base `.agent/workflows`.
-4. Ao redigir a instrução via Workspace Chat acione formalmente: **`@[/presentation-builder]`**. A inteligência cuidará de ler tudo nos bastidores.
+## Skills incluídas
 
-### 🟣 Para Claude CoWork / Projects (UI Web ou Slack)
-Na plataforma Web normal e compartilhável da Anthropic:
-1. Crie um novo Espaço de Projeto (Start Project) chamado *"Central Presentation Builder"*.
-2. Faça Upload do conteúdo contido nas pastas desta skill raiz `/skills` e `/workflow` transformando seu projeto no ambiente com o RAG mais robusto.
-3. Preencha o bloco de **"Custom Instructions"** copiando e colando a íntegra de `RULES.md` diretamente da Área de Transferência. Toda nova Thread com essa IA terá os superpoderes da apresentação embarcada.
+### Estratégia e Copywriting
+| Skill | O que faz |
+|-------|-----------|
+| `copywriting` | Escreve textos humanizados, filtrados de jargões de IA (Em Resumo, Neste Slide) visando conversão e fluidez no design. |
+| `seo-fundamentals` | Caso opte por gerar uma apresentação em Web (HTML/React), aplica as tags, meta descriptions e semântica pro Google ranquear. |
+
+### Design e Construção Visual
+| Skill | O que faz |
+|-------|-----------|
+| `ui-ux-pro-max` | Cuida da paleta de cores (contraste premium), espaçamento matemático, respiro em tela e dita a geometria lógica das IAs. |
+| `frontend-design` | Converte o pensamento UI/UX em arquiteturas flexíveis no código-fonte, aplicando a estética. |
+| `web-artifacts-builder` | Permite o prototipador de artefatos web no background construir componentes modulares lindíssimos. |
+
+---
+
+## Workflow Central
+
+Além das Skills, este pack obedece a uma inteligência estrita em passos:
+
+| Workflow | O que faz |
+|----------|-----------|
+| `presentation-builder` | O grande Maestro. Freia a IA e a força a cumprir 5 passos: (1) Briefing e Paletas, (2) Redação Humana, (3) Arte Código, (4) Pente-Fino e (5) Publicação Versionada. |
+
+---
+
+## Organização automática
+
+Todo conteúdo e documento produzido usando este ecossistema obedecerá a regra `RULES.md` de versionamento rigoroso e zero bagunça:
+
+```
+Apresentacoes/
+└── Meu_Projeto_Exemplo/
+    ├── src/
+    │   ├── App.tsx
+    │   ├── index.css
+    │   └── assets/
+    └── build/
+        ├── Meu_Projeto_Exemplo_v1.pdf
+        └── Meu_Projeto_Exemplo_v2.pdf
+```
+
+Zero confusão de versões ou overwrites de arquivos do passado.
+
+---
+
+## Como instalar
+
+### Antigravity / Gemini CLI
+
+A mais simples. Copia e funciona:
+
+```
+seu-projeto/
+└── .agent/
+    ├── workflows/    ← Mova `presentation-builder.md` aqui
+    └── skills/       ← Mova toda a pasta de skills aqui
+```
+
+**Passo a passo:**
+1. Copie todo o pacote `skills/` para o diretório `seu-projeto/.agent/skills/`.
+2. Pegue o arquivo mestre em `workflow/` e largue em `seu-projeto/.agent/workflows/`.
+3. Anexe ou cole o conteúdo do `RULES.md` aos System Prompts ou simplesmente os cite. Use a call `@[/presentation-builder]` no terminal de chat, a integração é plug-and-play.
+
+---
+
+### Claude Code
+
+No Claude Code, skills viram comandos:
+
+```
+seu-projeto/
+├── .claude/
+│   └── commands/     ← Cada SKILL.md vira um command
+└── CLAUDE.md         ← Rules combinadas aqui
+```
+
+**Passo a passo:**
+1. Crie a pasta oculta `.claude/commands/` na raiz do projeto.
+2. Para cada skill original, direcione o `SKILL.md` para `.claude/commands/nome-da-skill.md`.
+3. Crie `CLAUDE.md` na raiz fundindo o que estiver escrito aí com a íntegra de `RULES.md`. Chame o arquivo mestre de workflow na conversa livremente.
+
+---
+
+### Cursor
+
+```
+seu-projeto/
+├── .cursor/
+│   └── rules/        ← Rules organizadas aqui
+├── .cursorrules       ← Conteúdo do RULES.md copiado aqui
+└── skills/            ← Pasta skills colocada na root do projeto
+```
+
+**Passo a passo:**
+1. Crie o imbatível arquivo `.cursorrules` (arquivo de leitura matriz do AI do Cursor) jogando lá dentro o texto das nossas regras rígidas (`RULES.md`).
+2. Mantenha as pastas das skills visíveis. Pressione Cmd/Ctrl+L para o Chat, puxe usando a menção dupla (`@`) no arquivo do workflow, e ele absorverá.
+
+---
+
+### Windsurf (Codeium)
+
+```
+seu-projeto/
+├── .windsurfrules     ← Conteúdo de RULES.md 
+└── .windsurf/
+    └── skills/        ← Toda a esteira de skills aqui
+```
+
+1. Crie `RULES.md` -> `.windsurfrules`.
+2. Instale e vincule a pasta `skills/` visível ao engine.
+
+---
+
+### GitHub Copilot
+
+```
+seu-projeto/
+├── .github/
+│   ├── copilot-instructions.md  ← Cole RULES.md aqui
+│   └── skills/                  ← Skills da esteira soltas aqui
+```
+
+1. Crie `.github/copilot-instructions.md` com a nossa injeção de comportamento de regras.
+2. Empurre `skills/` e `workflow/` para reposição de conhecimento visual.
+
+---
+
+### Qualquer outro agente (Universal)
+
+A esteira funciona organicamente com qualquer LLM que suporte RAG ou documentação anexada (ChatGPT, Claude Web):
+
+1. **Upload:** Jogue a árvore completa de pastas para o projeto ou para a base de arquivos da IA.
+2. **System Prompt / Regras Custom:** Pegue o `RULES.md` e defina essas diretrizes como Lei incondicional para aquele chat ou Workspace.
+3. Peça no chat explicitamente: *"Inicie o workflow presentation-builder"*.
+
+---
+
+## Como usar
+
+Depois que todas as pastas e a regra-base estiverem apontadas, acione o motor pedindo naturalmente, ex:
+
+| Você diz | O agente faz |
+|----------|-------------|
+| "inicie o presentation-builder pra minha aula" | O Agente vira diretor de arte, aciona a SKILL de Design e UX, e inicia o painel visual pedindo arquivos da aula, logs (Etapa 1). |
+| "vou querer em webapp interativo e exportado pra Mobile" | Ativa as regras puras de SEO e Frontend, trancando a redação e já criando os blocos base CSS (Passo 2 e 3). |
+| "ta legal, finaliza pra mim" | O bot lê a própria tela, confere contraste WCAG, avalia texto por texto em caça a Emojis e exporta versão imutável em `build/` (Passo 4 e 5). |
+
+O segredo de tudo está fundamentado no arquivo **RULES.md**. Ignorar as RULES fará o LLM pular direto para a criação do texto como um robô chato. **Sempre instale as rules junto com as skills.**
+
+---
+
+## Estrutura do pack
+
+```
+PRESENTATION BUILDER PACK/
+├── README.md
+├── RULES.md                      ← Mapa operacional e freios (identidade do agente)
+├── workflow/
+│   └── presentation-builder.md   ← Esteira mandatória rigorosa de 5 Passos
+└── skills/
+    ├── copywriting/SKILL.md
+    ├── frontend-design/SKILL.md
+    ├── seo-fundamentals/SKILL.md
+    ├── ui-ux-pro-max/SKILL.md
+    └── web-artifacts-builder/SKILL.md
+```
+
+---
+
+## Créditos e Licença
+
+Criado por **INZ** · [@inzbrasil](https://instagram.com/inzbrasil)
+
+Livre para uso pessoal e comercial. Compartilhe a vontade, só mantenha os créditos.
